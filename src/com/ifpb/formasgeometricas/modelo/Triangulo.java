@@ -1,6 +1,6 @@
 package com.ifpb.formasgeometricas.modelo;
 
-public class Triangulo extends FormaGeometrica {
+public class Triangulo implements FormaGeometrica {
 
     private double lado;
 

@@ -1,6 +1,6 @@
 package com.ifpb.formasgeometricas.modelo;
 
-public class Circulo extends FormaGeometrica{
+public class Circulo implements FormaGeometrica{
 
     private double raio;
 

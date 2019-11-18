@@ -2,8 +2,7 @@ package com.ifpb.formasgeometricas.visao;
 
 import com.ifpb.formasgeometricas.modelo.Circulo;
 import com.ifpb.formasgeometricas.modelo.FormaGeometrica;
-import com.ifpb.formasgeometricas.modelo.Quadrado;
-import com.ifpb.formasgeometricas.modelo.Triangulo;
+
 
 public class App {
 

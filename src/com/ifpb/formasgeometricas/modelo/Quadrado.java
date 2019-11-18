@@ -1,6 +1,6 @@
 package com.ifpb.formasgeometricas.modelo;
 
-public class Quadrado extends FormaGeometrica{
+public class Quadrado implements FormaGeometrica{
 
     private double lado;
 

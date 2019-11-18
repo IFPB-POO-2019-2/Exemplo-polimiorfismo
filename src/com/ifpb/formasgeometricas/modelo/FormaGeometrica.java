@@ -1,8 +1,9 @@
 package com.ifpb.formasgeometricas.modelo;
 
-public abstract class FormaGeometrica {
+//TODO: Trocar para duas interfaces AreaCalculavel e PerimetroCalculavel
+public interface FormaGeometrica {
 
-    public abstract double calcularArea();
-    public abstract double calcularPerimetro();
+    double calcularArea();
+    double calcularPerimetro();
 
 }

@@ -1,6 +1,6 @@
 package com.ifpb.formasgeometricas.modelo;
 
-public class Retangulo extends FormaGeometrica {
+public class Retangulo implements FormaGeometrica {
 
     private double ladoa;
     private double ladob;
